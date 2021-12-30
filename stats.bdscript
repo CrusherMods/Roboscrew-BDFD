@@ -1,0 +1,7 @@
+$nomention
+$title[Stats]
+$description[Im in $serverCount Servers! and I’m screwing $membersCount people in your server!
+I also may go offline on $hostingExpireTime
+I have been online for $uptime]
+$footer[Thanks for using Roboscrew. Hope you enjoy the bot!]
+$color[01bb00]
